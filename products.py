@@ -1,0 +1,2 @@
+product=shampoo
+print(product)
